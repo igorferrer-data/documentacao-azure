@@ -34,5 +34,3 @@ Acessar e se familiarizar com o Portal do Azure
 
      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Capturar.PNG)
 
-### Conclusão
-Parabéns! Agora está familiarizado com o Portal do Azure. A partir daqui, poderá explorar mais recursos e serviços oferecidos pelo Azure para expandir suas habilidades e conhecimentos.
