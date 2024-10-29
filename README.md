@@ -3,13 +3,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ## Tópicos
 
-### 1. Labs do Challenge DIO
-Aqui você encontrará uma série de laboratórios práticos e materiais que utilizei para estudar que fazem parte do Bootcamp Microsoft Essentials.
-
-### 1.1 Projetos e Desafios
+### 1. Projetos e Desafios
 Nesta seção, você encontrará projetos e desafios que completei no Bootcamp DIO : cada desafio terá as instruções do passo a passo.
 
-- ☁️ Desafio 1 - [Conhecendo o Microsoft Azure]([https://github.com/igorferrer-data/documentacao-azure/blob/main/01%20-%20Azure%20Portal.md](https://github.com/igorferrer-data/documentacao-azure/blob/main/01%20-%20Microsoft%20Azure.md)) 
+- ☁️ Desafio 1 - [Conhecendo o Microsoft Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/01%20-%20Microsoft%20Azure.md) 
 - 🌩️ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/igorferrer-data/documentacao-azure/blob/main/02%20-%20Maquinas%20Virtuais(Virtual%20Machine).md)
 - ⛈️ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/igorferrer-data/documentacao-azure/blob/main/03%20-%20Banco%20de%20dados(DataBase).md)
 - 🌧️ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md)
