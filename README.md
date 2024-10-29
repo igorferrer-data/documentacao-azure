@@ -1,5 +1,5 @@
 # Microsoft Azure Essentials
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, visando a preparação para a Certificação AZ-900.
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab da DIO, visando a preparação para a Certificação AZ-900.
 
 ## Tópicos
 
