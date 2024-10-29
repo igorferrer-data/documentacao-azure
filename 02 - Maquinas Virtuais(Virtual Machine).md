@@ -14,9 +14,9 @@ Para atender a essa necessidade , a solução envolve os seguintes passos:
         | Subscription1| Nome Unico | (US) East Us|
      - Clique em *"Review Create"* + *"Create"* - Aguarde fazer o Deploy.
 
-![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2%20-%20Resource%20Group.PNG)
+    ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2%20-%20Resource%20Group.PNG)
 
-![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.1%20-%20Notifica%C3%A7%C3%A3o%20Implementado.PNG)
+    ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.1%20-%20Notifica%C3%A7%C3%A3o%20Implementado.PNG)
 
 2. #### Criar e Configurar Virtual Machine
       - Pesquise por *"Virtual Machine"* , *"+ Create"* , selecione *"Azure Virtual Machine"* e siga as instruções a seguir na Aba *"Basics"*:
