@@ -6,7 +6,7 @@ Acessar e se familiarizar com o Portal do Azure
  
 1. #### Criar e Configurar uma Conta no Azure Free
    - Acesse [Microsoft Azure](https://portal.azure.com) 
-     - Insira suas credencias - ex: xxxx@hotmail.com e senha " **** " 📋 *De preferência use email da microsoft caso não tenha um [clique aqui](https://signup.live.com/) e faça um email* 📋
+     - Insira suas credencias - ex: xxxx@onmicrosoft.com e senha " **** " 📋 *De preferência use email da microsoft caso não tenha um [clique aqui](https://signup.live.com/) e faça um email* 📋
 
      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Entrar.PNG)
      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Senha.PNG)
