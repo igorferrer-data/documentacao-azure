@@ -13,7 +13,7 @@ Nesta seção, você encontrará projetos e desafios que completei no Bootcamp D
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/igorferrer-data/documentacao-azure/blob/main/02%20-%20Maquinas%20Virtuais(Virtual%20Machine).md).
 - ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/igorferrer-data/documentacao-azure/blob/main/03%20-%20Banco%20de%20dados(DataBase).md).
 - ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/04%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
-- ⭐ Desafio 5 - [Configurando Recursos em VMs ](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/05%20-%20Configurar%20recursos%20em%20Vms.md).
+- ⭐ Desafio 5 - [Configurando Recursos em VMs ](https://github.com/igorferrer-data/documentacao-azure/blob/main/05%20-%20Configurar%20recursos%20em%20Vms.md).
 - ⭐ Desafio 6 - [Dominando o Armazenamento no Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/06%20-%20Configurar%20Armazenamento%20(Storage).md).
 - ⭐ Desafio 7 - [Entender sobre Identidade e Segurança no Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/07%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
 - ⭐ Desafio 8 - [Otimização de Custos do Azure](https://github.com/igorferrer-data/documentacao-azure/blob/main/08%20-%20Otimiza%C3%A7%C3%A3o%20de%20Custos%20do%20Azure.md).
